@@ -1,6 +1,6 @@
-# 🚴 **Onefinnet Assignment Project**
+l# 🚴 **Onefinnet Assignment Project**
 
-### 🌐 **Live Deployment Link**  
+### 🌐 **Live Deployment Link on Vercel**  
 [Click here to view the live project!](https://ui-buy-latest-bikes.vercel.app/)
 
 ---
