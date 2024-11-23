@@ -8,6 +8,10 @@ const products = [
   { id: 2, name: 'Kryo X26 MTB – Model X', price: '$450.00', image: image2 },
   { id: 3, name: 'Kryo X26 MTB – Model Y', price: '$500.00', image: image3 },
   { id: 4, name: 'Kryo X26 MTB – Model Z', price: '$550.00', image: image4 },
+  { id: 4, name: 'Kryo X26 MTB – Model Z', price: '$550.00', image: image4 },
+  { id: 4, name: 'Kryo X26 MTB – Model Z', price: '$550.00', image: image4 },
+  { id: 4, name: 'Kryo X26 MTB – Model Z', price: '$550.00', image: image4 },
+  { id: 4, name: 'Kryo X26 MTB – Model Z', price: '$550.00', image: image4 }
   
 ];
 
