@@ -8,7 +8,7 @@ const Navbar = () => {
         <li><a href="#home">Home</a></li>
         <li><a href="#bicycles">Bicycles</a></li>
         <li><a href="#accessories">Accessories</a></li>
-        <li><a href="#about">About Us</a></li>
+        <li><a href="https://documenter.getpostman.com/view/31563269/2sAYBUCrZm">About Us</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="cart">
